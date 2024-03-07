@@ -75,7 +75,7 @@ display: none;
     color: white;
     position: absolute;
     top: 30px;
-    left: 425px;
+    left: 400px;
 }
 #showmenu{
 display: none;
@@ -234,8 +234,8 @@ height: 400px;
     .name{
     position:absolute;
     top:160px;
-    left:50px;
-    font-size:18px;
+    left:40px;
+    font-size:16px;
     z-index: 1;
     
     }
@@ -325,7 +325,7 @@ height: 400px;
     .about1, .about2{
         width: 400px;
         height: 380px;
-        margin-left: 30px;
+        margin-left: 10px;
     }
     .about1:hover{
         width: 410px;
@@ -433,7 +433,7 @@ height: 400px;
     }
     .map iframe{
         margin-top: 20px;
-        margin-left: -10px;
+        margin-left: -15px;
         width: 400px;
         height:300px;
     }
